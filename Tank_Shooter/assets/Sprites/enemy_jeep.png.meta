@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8594b975-f114-471f-a096-7e88163ca3b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1056,
+  "platformSettings": {},
+  "subMetas": {
+    "enemy_jeep": {
+      "ver": "1.0.4",
+      "uuid": "83a2210f-5c59-4cf4-870d-966600682bc6",
+      "rawTextureUuid": "8594b975-f114-471f-a096-7e88163ca3b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 32.5,
+      "offsetY": 0,
+      "trimX": 724,
+      "trimY": 40,
+      "width": 537,
+      "height": 976,
+      "rawWidth": 1920,
+      "rawHeight": 1056,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
